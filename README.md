@@ -2,7 +2,7 @@
 Stopwatch ini dibuat oleh Rakhaa lho !!
 
 # Cara pakai
-1. Buka link
+1. Buka [link](https://xyozzcyber-bit.github.io/Stopwatch-By-Rakhaa/)
 2. Klik tombol mulai
 3. Bisa klik tombol Henti atau Reset
 
